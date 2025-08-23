@@ -13,3 +13,12 @@ langchain_huggingface
 faiss-cpu
 langchain_chroma
 tqdm
+streamlit
+langchain-google-genai
+google-generativeai
+sentence_transformers
+huggingface-hub
+scikit-learn
+numpy
+langchain-anthropic
+langchain-groq
